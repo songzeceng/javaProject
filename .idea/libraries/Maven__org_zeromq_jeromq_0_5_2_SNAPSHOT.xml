@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.zeromq:jeromq:0.5.2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/develop/maven/localRespository/org/zeromq/jeromq/0.5.2-SNAPSHOT/jeromq-0.5.2-20190503.155900-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/develop/maven/localRespository/org/zeromq/jeromq/0.5.2-SNAPSHOT/jeromq-0.5.2-20190503.155900-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/develop/maven/localRespository/org/zeromq/jeromq/0.5.2-SNAPSHOT/jeromq-0.5.2-20190503.155900-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
