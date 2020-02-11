@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/THUC/THUCTC_java_v1/src/THUCTC_java_v1.iml" filepath="$USER_HOME$/Desktop/THUC/THUCTC_java_v1/src/THUCTC_java_v1.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/liblinear-1.8-sources/liblinear-1.8-sources.iml" filepath="$USER_HOME$/Desktop/liblinear-1.8-sources/liblinear-1.8-sources.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/libsvm-3.1-sources/libsvm-3.1-sources.iml" filepath="$USER_HOME$/Desktop/libsvm-3.1-sources/libsvm-3.1-sources.iml" />
+    </modules>
+  </component>
+</project>
